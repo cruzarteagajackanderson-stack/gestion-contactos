@@ -2,10 +2,9 @@
 
 ## Datos del estudiante
 
-- Nombre: [Tu nombre]
-- Materia: [Nombre de la materia]
-- Grupo: [Tu grupo]
-- Fecha: [Fecha de entrega]
+- Nombre: [Anderson]
+- Materia: [Fundamentos de programacion]
+- Fecha: [03/11/26]
 
 ## Objetivo
 

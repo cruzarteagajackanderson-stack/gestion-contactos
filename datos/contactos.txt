@@ -1,2 +1,2 @@
-{"nombre": "alejandro cruz", "telefono": "906407808", "correo": "alejandro@example.com"}
-{"nombre": "alejandro cruz", "telefono": "906407808", "correo": "alejandro@example.com"}
+{"nombre": "luis", "telefono": "912975333", "correo": "luis@example.com"}
+{"nombre": "ana", "telefono": "906407808", "correo": "ana@example.com"}
